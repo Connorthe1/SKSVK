@@ -1,14 +1,4 @@
 /*!
- * @pixi/layers - v2.0.1
- * Compiled Wed, 21 Dec 2022 21:17:52 UTC
- *
- * @pixi/layers is licensed under the MIT License.
- * http://www.opensource.org/licenses/mit-license
- * 
- * Copyright 2017-2021, Ivan Popelyshev, All Rights Reserved
- */
-
-/*!
  * matter-js 0.19.0 by @liabru
  * http://brm.io/matter-js/
  * License MIT
